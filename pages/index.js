@@ -14,6 +14,7 @@ export default function Home() {
         <Header title="Fairfax VIP" />
         <p className="description">
           Welcome, page is currently <code>under construction</code>.
+          <center><img src = "/banner1.png"></center>
         </p>
       </main>
 
